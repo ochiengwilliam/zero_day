@@ -1,3 +1,9 @@
-# Heading level 1
-## Heading level 2
-### Heading level 3
+# Vagrant
+
+In this project, I learned about virtual machines and how to run Ubuntu in Vagrant.
+
+## Tasks :page_with_curl:
+
+* **Hello Ubuntu**
+  * [0-hello_ubuntu](./0-hello_ubuntu): Displays what the command
+  Linux prints when run in Ubuntu VM without any option.
